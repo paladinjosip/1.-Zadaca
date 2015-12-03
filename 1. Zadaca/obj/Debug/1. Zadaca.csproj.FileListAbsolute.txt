@@ -1,1 +1,5 @@
 c:\users\firma\documents\visual studio 2013\Projects\1. Zadaca\1. Zadaca\bin\Debug\_1.Zadaca.exe.config
+c:\users\firma\documents\visual studio 2013\Projects\1. Zadaca\1. Zadaca\bin\Debug\_1.Zadaca.exe
+c:\users\firma\documents\visual studio 2013\Projects\1. Zadaca\1. Zadaca\bin\Debug\_1.Zadaca.pdb
+c:\users\firma\documents\visual studio 2013\Projects\1. Zadaca\1. Zadaca\obj\Debug\_1.Zadaca.exe
+c:\users\firma\documents\visual studio 2013\Projects\1. Zadaca\1. Zadaca\obj\Debug\_1.Zadaca.pdb
