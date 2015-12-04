@@ -10,12 +10,17 @@ namespace _1.Zadaca
     {
         static void Main(string[] args)
         {
-          //  ListExample(new IntegerList());
+          //  ListExample(new IntegerList());   //1. zadatak
+
+            //2. i 3. zadatak
             IGenericList<string> stringList = new GenericList<string>();
             stringList.Add("Hello");
             stringList.Add("World");
             stringList.Add("!");
 
+            foreach (string value in stringList) {
+                Console.WriteLine(value);
+            }
             Console.WriteLine(stringList.Count);
             Console.WriteLine(stringList.Contains("Hello"));
             Console.WriteLine(stringList.IndexOf("Hello"));
@@ -24,10 +29,11 @@ namespace _1.Zadaca
             IGenericList<double> doubleList = new GenericList<double>();
             doubleList.Add(0.2);
             doubleList.Add(0.7);
-
+         
             Console.Read();
         }
 
+        //Metoda za 1. zadatak
         private static void ListExample(IIntegerList listOfInteger)
         {
             listOfInteger.Add(1);
