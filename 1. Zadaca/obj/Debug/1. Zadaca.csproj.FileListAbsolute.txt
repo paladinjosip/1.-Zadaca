@@ -3,3 +3,4 @@ c:\users\firma\documents\visual studio 2013\Projects\1. Zadaca\1. Zadaca\bin\Deb
 c:\users\firma\documents\visual studio 2013\Projects\1. Zadaca\1. Zadaca\bin\Debug\_1.Zadaca.pdb
 c:\users\firma\documents\visual studio 2013\Projects\1. Zadaca\1. Zadaca\obj\Debug\_1.Zadaca.exe
 c:\users\firma\documents\visual studio 2013\Projects\1. Zadaca\1. Zadaca\obj\Debug\_1.Zadaca.pdb
+C:\Users\Firma\documents\visual studio 2013\Projects\1. Zadaca\1. Zadaca\obj\Debug\1. Zadaca.csprojResolveAssemblyReference.cache
