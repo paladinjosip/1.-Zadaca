@@ -12,7 +12,7 @@ namespace _1.Zadaca
         {
           //  ListExample(new IntegerList());   //1. zadatak
 
-            //2. i 3. zadatak
+            //2. i 4. zadatak
             IGenericList<string> stringList = new GenericList<string>();
             stringList.Add("Hello");
             stringList.Add("World");
