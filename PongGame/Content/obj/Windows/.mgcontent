@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Firma/documents/visual studio 2013/Projects/1. Zadaca/PongGame/Content/background.png</File>
+    <File>C:/Users/Firma/documents/visual studio 2013/Projects/1. Zadaca/PongGame/Content/ball.png</File>
+    <File>C:/Users/Firma/documents/visual studio 2013/Projects/1. Zadaca/PongGame/Content/paddle.jpg</File>
+    <File>C:/Users/Firma/documents/visual studio 2013/Projects/1. Zadaca/PongGame/Content/music.mp3</File>
+    <File>C:/Users/Firma/documents/visual studio 2013/Projects/1. Zadaca/PongGame/Content/hit.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
